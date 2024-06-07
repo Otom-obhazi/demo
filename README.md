@@ -1,7 +1,7 @@
 #demo
-
-my discrption.
-my demo discription.
+my description.
 
 ##subheader 
-just made a subheader
+I just made a subheader
+
+I made a Pacman with HTML and inline CSS.
